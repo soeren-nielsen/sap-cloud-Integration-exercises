@@ -1,7 +1,7 @@
 # Exercise: XML Mapping Using Graphical or XSLT Mapping
 
 **Description:**
-In this exercise, participants will learn how to map an input XML structure to a desired output XML structure using either graphical mapping or XSLT mapping in SAP Cloud Integration.
+Learn how to map an input XML structure to a desired output XML structure using either graphical mapping or XSLT mapping in SAP Cloud Integration.
 
 ### Steps:
 1. **Set Up Integration Flow:**
@@ -55,4 +55,4 @@ In this exercise, participants will learn how to map an input XML structure to a
 - Validate the output XML structure against the provided output XSD.
 
 ### Helpful Links:
-- **SAP Cloud Integration Documentation:** [SAP Cloud Integration Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_INTEGRATION/)
+- **SAP Cloud Integration Documentation:** [SAP Cloud Integration Documentation](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration)

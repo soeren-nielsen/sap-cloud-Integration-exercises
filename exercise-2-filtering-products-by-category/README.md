@@ -25,5 +25,5 @@ Modify the integration flow created in Exercise 1 to filter products by a specif
 
 ### Helpful Links:
 - [OData Northwind Documentation](https://services.odata.org/V4/Northwind/Northwind.svc/)
-- [SAP Cloud Integration Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_INTEGRATION/)
+- [SAP Cloud Integration Documentation](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration)
 - [OData Basic Tutorial](https://www.odata.org/getting-started/basic-tutorial/)

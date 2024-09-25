@@ -1,7 +1,7 @@
 # Exercise 4: Aggregating Northwind Data
 
 ## Description:
-In this exercise, participants will create an integration flow that aggregates data from multiple entities in the Northwind OData service, such as products and categories. This exercise will help users understand how to use mappings and transformations effectively.
+Create an integration flow that aggregates data from multiple entities in the Northwind OData service, such as products and categories. This exercise will help users understand how to use mappings and transformations effectively.
 
 ### Steps:
 1. **Set Up OData Connections:**
@@ -33,5 +33,5 @@ In this exercise, participants will create an integration flow that aggregates d
 
 ### Helpful Links:
 - [OData Northwind Documentation](https://services.odata.org/V4/Northwind/Northwind.svc/)
-- [SAP Cloud Integration Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_INTEGRATION/)
+- [SAP Cloud Integration Documentation](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration)
 - [OData Basic Tutorial](https://www.odata.org/getting-started/basic-tutorial/)

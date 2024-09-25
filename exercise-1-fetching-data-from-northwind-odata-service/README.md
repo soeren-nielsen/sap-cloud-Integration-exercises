@@ -27,4 +27,4 @@ Learn how to connect to the Northwind OData service and fetch data for products.
 
 ### Helpful Links:
 - [OData Northwind Documentation](https://services.odata.org/V4/Northwind/Northwind.svc/)
-- [SAP Cloud Integration Documentation](https://help.sap.com/viewer/product/SAP_CLOUD_PLATFORM_INTEGRATION/)
+- [SAP Cloud Integration Documentation](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/sap-cloud-integration)
