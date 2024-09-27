@@ -1,6 +1,6 @@
 # Exercise: XML Mapping Using Graphical or XSLT Mapping
 
-**Description:**
+## Description:
 Learn how to map an input XML structure to a desired output XML structure using either graphical mapping or XSLT mapping in SAP Cloud Integration.
 
 ### Steps:

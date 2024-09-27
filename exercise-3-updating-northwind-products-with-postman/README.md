@@ -1,7 +1,7 @@
 # Exercise 3: Updating Northwind Products with Postman
 
-## cription:
-Ceate an integration flow that can receive product updates from an external system and update the Northwind OData service using Postman. This will provide insight into how to handle incoming data.
+## Description:
+Create an integration flow that can receive product updates from an external system and update the Northwind OData service using Postman. This will provide insight into how to handle incoming data.
 
 ### Steps:
 1. **Set Up Integration Flow:**
